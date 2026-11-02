@@ -1,0 +1,3 @@
+MODEL = "gemma4:12b"
+
+MAX_TOOL_CALLS = 6
